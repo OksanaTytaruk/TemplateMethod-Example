@@ -1,0 +1,2 @@
+# TemplateMethod-Example
+Шаблонний метод
